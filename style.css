@@ -1,0 +1,10 @@
+svg {
+    width: 960px;
+    height: 600px;
+}
+
+.states {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+}
